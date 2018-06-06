@@ -1,6 +1,8 @@
-# phatblat.pass
+# ErikEverson.pass
 
 My business card as a Passbook pass.
+
+Forked from [phatblat's repo](https://github.com/phatblat/phatblat.pass)
 
 ## License
 
